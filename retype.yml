@@ -24,6 +24,8 @@ meta:
 nav:
   mode: stack
 
+poweredByRetype: false
+
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
