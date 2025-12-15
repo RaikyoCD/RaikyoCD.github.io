@@ -7,8 +7,10 @@ start:
   pro: true
 
 branding:
-  title: Project Name
-  label: Docs
+  baseColor: "#e48e97"
+  title: RaikyoCD
+  label: null
+  logo: images/RaikyoCD.svg
 
 links:
   - text: Getting Started
