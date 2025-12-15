@@ -12,6 +12,10 @@ branding:
   label: null
   logo: images/RaikyoCD.svg
 
+edit:
+  repo: "https://github.com/RaikyoCD/RaikyoCD.github.io/"
+  label: Edit on GitHub
+
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
