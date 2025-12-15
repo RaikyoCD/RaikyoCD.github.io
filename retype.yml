@@ -18,9 +18,12 @@ edit:
 
 favicon: images/RaikyoCD.png
 
+meta:
+  title: " | RaikyoCD"
+
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright RaikyoCD {{ year }}. All rights reserved."
