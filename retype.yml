@@ -21,6 +21,9 @@ favicon: images/RaikyoCD.png
 meta:
   title: " | RaikyoCD"
 
+nav:
+  mode: stack
+
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
