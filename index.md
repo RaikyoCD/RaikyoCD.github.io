@@ -1,5 +1,5 @@
 # RaikyoCD - welcome!
-Welcome to [!badge variant="base" size="xs" text="raikyo.live"](https://raikyo.live)!
+Welcome to [!button variant="base" size="xs" text="raikyo.live"](https://raikyo.live)!
 
 !!!base What is RaikyoCD?
 RaikyoCD is a work-in-progress rescue CD with all the tools you need in a tiny package.
